@@ -18,3 +18,22 @@ ul {
   margin: 0;
   padding: 0;
 }
+.nav-links{
+  display: flex;
+  background-color: black;
+  color: white;
+}
+img{
+  height: 100px;
+  width:300px
+}
+
+.article1{
+  border: 1px solid grey;
+}
+.article2{
+  border: 1px solid grey;
+}
+.article3{
+  border: 1px solid grey;
+}
